@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "2000" viewWidth= "2000">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="Layer_1" d:type="layer">
+		<Group d:userLabel="Rectangle">
+			<transform>
+				<Transform>
+					<matrix>
+						<Matrix a="7.287321819247946" d="7.299266570194904" tx="-914" ty="-796"/>
+					</matrix>
+				</Transform>
+			</transform>
+			<Rect x="125.43255615234375" y="109" width="274.4493103027344" height="274.00018310546875" alpha="1" blendMode="normal" radiusX="16.440010986328126" radiusY="16.440010986328126">
+				<fill>
+					<SolidColor color="#d91a2a"/>
+				</fill>
+			</Rect>
+		</Group>
+		<Group d:userLabel="Group_1">
+			<Path winding="evenOdd" data="M 956 1481 L 887 1733 L 942 1733 L 1081 1481 L 1081 1345 L 956 1345 L 956 1481 L 956 1481 Z M 942 1165 L 1067 1165 L 1067 735 L 942 735 L 942 1165 Z " blendMode="normal" alpha="1">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Path>
+			<Group d:userLabel="Group_2">
+				<Path winding="evenOdd" data="M 425 780 C 425 713 436 669 456 649 C 477 629 521 619 589 619 C 589 619 767 619 767 619 C 841 619 896 608 929 587 C 963 566 987 529 1000 477 C 1012 529 1035 565 1069 587 C 1103 608 1157 619 1233 619 C 1233 619 1411 619 1411 619 C 1479 619 1523 629 1544 649 C 1565 669 1575 713 1575 780 C 1575 780 1575 830 1575 830 L 1678 830 C 1678 830 1678 784 1678 784 C 1678 666 1660 587 1625 547 C 1590 507 1519 487 1413 487 C 1413 487 1241 487 1241 487 C 1169 487 1120 474 1092 449 C 1065 423 1052 377 1052 310 C 1052 310 1052 266 1052 266 L 949 266 C 949 266 949 310 949 310 C 949 377 935 423 907 448 C 880 474 830 487 758 487 C 758 487 586 487 586 487 C 481 487 411 507 375 547 C 340 587 322 666 322 784 C 322 784 322 830 322 830 L 425 830 L 425 780 C 425 780 425 780 425 780 Z " blendMode="normal" alpha="1">
+					<fill>
+						<SolidColor color="#ffffff"/>
+					</fill>
+				</Path>
+			</Group>
+		</Group>
+	</Group>
+</Graphic>
